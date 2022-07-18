@@ -1,0 +1,38 @@
+{
+  "update_id": 407364171,
+  "message": {
+    "message_id": 1676,
+    "from": {
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby",
+      "language_code": "en"
+    },
+    "date": 1645195145,
+    "chat": {
+      "id": -634867378,
+      "type": "group",
+      "title": "bot testing",
+      "all_members_are_administrators": true
+    },
+    "text": "indeed",
+    "reply_to_message": {
+      "message_id": 1675,
+      "from": {
+        "id": 1646394354,
+        "first_name": "tutrit",
+        "is_bot": true,
+        "username": "tutrit_bot"
+      },
+      "date": 1645195106,
+      "chat": {
+        "id": -634867378,
+        "type": "group",
+        "title": "bot testing",
+        "all_members_are_administrators": true
+      },
+      "text": "Hello World!"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "update_id": 407364213,
+  "callback_query": {
+    "id": "798560011820230055",
+    "from": {
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby",
+      "language_code": "en"
+    },
+    "message": {
+      "message_id": 1789,
+      "from": {
+        "id": 1646394354,
+        "first_name": "tutrit",
+        "is_bot": true,
+        "username": "tutrit_bot"
+      },
+      "date": 1645218831,
+      "chat": {
+        "id": 185929241,
+        "type": "private",
+        "first_name": "max",
+        "username": "jrrby"
+      },
+      "text": "telegram-bot-demo",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "Show Answer",
+              "callback_data": "/answer"
+            }
+          ],
+          [
+            {
+              "text": "Prev",
+              "callback_data": "/prev_question"
+            },
+            {
+              "text": "Next",
+              "callback_data": "/next_question"
+            }
+          ],
+          [
+            {
+              "text": "Quit",
+              "callback_data": "/quit"
+            }
+          ]
+        ]
+      }
+    },
+    "data": "/answer",
+    "chat_instance": "1233672357805058537"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "update_id": 407364166,
+  "message": {
+    "message_id": 1670,
+    "from": {
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby",
+      "language_code": "en"
+    },
+    "date": 1645193963,
+    "chat": {
+      "id": -634867378,
+      "type": "group",
+      "title": "bot testing",
+      "all_members_are_administrators": true
+    },
+    "text": "/settings@tutrit_bot",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 20
+      }
+    ]
+  }
+}

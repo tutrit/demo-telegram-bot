@@ -1,0 +1,48 @@
+.mvn/wrapper/maven-wrapper.jar
+**/target/
+artefacts
+dockerdata
+interviewer-public-questions
+**/.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.idea
+**/target
+*.iml
+dockerdata
+!dockerdata/rabbit_interviewer.json
+*.jar
+jars.txt
+artifacts
+backup
+### we use application.properties to store local secrets, our production properties is application.yml
+**/application.properties
+**/last_update.json
+**/derby.log
+

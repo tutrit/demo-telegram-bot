@@ -1,0 +1,28 @@
+{
+  "update_id": 407364160,
+  "message": {
+    "message_id": 1665,
+    "from": {
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby",
+      "language_code": "en"
+    },
+    "date": 1645189873,
+    "chat": {
+      "id": 185929241,
+      "type": "private",
+      "first_name": "max",
+      "username": "jrrby"
+    },
+    "text": "/start",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}

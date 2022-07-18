@@ -1,0 +1,24 @@
+{
+  "update_id": 407364204,
+  "message": {
+    "message_id": 1787,
+    "from": {
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby",
+      "language_code": "en"
+    },
+    "date": 1645217287,
+    "chat": {
+      "id": 185929241,
+      "type": "private",
+      "first_name": "max",
+      "username": "jrrby"
+    },
+    "location": {
+      "longitude": 18.653114,
+      "latitude": 54.361692
+    }
+  }
+}

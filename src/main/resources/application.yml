@@ -1,0 +1,4 @@
+bot:
+  username: ${bot.username}
+  token: ${bot.token}
+chat.id: ${chat.id}
